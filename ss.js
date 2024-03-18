@@ -100,7 +100,7 @@ console.log(obj1.info.loc.city);
 delete obj1.info.loc.street
 console.log(obj1.info.loc.education.uniname='BDU');
 console.log();
-console.log(obj1.info.loc.street = 'Nizami 23');
+// console.log(obj1.info.loc.street = 'Nizami 23');
 
 
 // // 3.Console gender
